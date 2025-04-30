@@ -19,7 +19,7 @@
 
 ### 注意
 
-1. 网站通过git page部署到github上，点击 [VIP视频解析](https://github.com/luckybaidu/Watch-Video/index.html) 即可打开网站。
+1. 网站通过git page部署到github上，点击 [VIP视频解析](https://github.com/luckybaidu/Watch-Video/) 即可打开网站。
 2. 如果无法打开以上网址，可以将该仓库的文件下载到本地后打开。
 3. 如因接口问题导致无法解析，用户可以自行更换接口，也可以 issues me。
 4. 接口可能暂时无法使用。为了应付此情况，故将其它的视频解析网站链接放置到友链中。以便用户根据需要进行选择。
